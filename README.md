@@ -2,6 +2,19 @@
 
 The goal of this project is to fine tune LLAMA for Indian Languages as it is originally trained on 90% English Language and 10% Mathematical equations
 
+
+Models such as [ChatGPT]([https://openai.com/blog/chatgpt](https://openai.com/blog/chatgpt)), [GPT-4]([https://openai.com/research/gpt-4](https://openai.com/research/gpt-4)), and [Claude]([https://www.anthropic.com/index/introducing-claude](https://www.anthropic.com/index/introducing-claude)) are powerful language models that have been fine-tuned using a method called Reinforcement Learning from Human Feedback (RLHF) to be better aligned with how we expect them to behave and would like to use them.
+
+
+The steps involveed : 
+
+* Supervised Fine-tuning (SFT)
+* Reward / preference modeling (RM)
+* Reinforcement Learning from Human Feedback (RLHF)
+
+![](https://huggingface.co/datasets/trl-internal-testing/example-images/resolve/main/blog/stackllama/instructGPT.png)
+*From InstructGPT paper: Ouyang, Long, et al. "Training language models to follow instructions with human feedback." arXiv preprint arXiv:2203.02155 (2022).*
+
 ## Data Used for Training 
 
 ### We use WIKIMatrix to fine tune the model which contains the following : 
