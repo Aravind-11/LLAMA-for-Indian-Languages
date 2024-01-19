@@ -25,42 +25,16 @@ wget https://dl.fbaipublicfiles.com/laser/WikiMatrix/WikiMatrix.v1.1620_language
 
 ### References 
 
-```bibtext
-@misc {schwenk2019wikimatrix,
-      title={WikiMatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia}, 
-      author={Holger Schwenk and Vishrav Chaudhary and Shuo Sun and Hongyu Gong and Francisco Guzmán},
-      year={2019},
-      eprint={1907.05791},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-```
 
-```bibtext
-@misc {touvron2023llama,
-      title={LLaMA: Open and Efficient Foundation Language Models}, 
-      author={Hugo Touvron and Thibaut Lavril and Gautier Izacard and Xavier Martinet and Marie-Anne Lachaux and Timothée Lacroix and Baptiste Rozière and Naman Goyal and Eric Hambro and Faisal Azhar and Aurelien Rodriguez and Armand Joulin and Edouard Grave and Guillaume Lample},
-      year={2023},
-      eprint={2302.13971},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-```
+[1] Holger Schwenk, Vishrav Chaudhary, Shuo Sun, Hongyu Gong and Paco Guzman,
+    [*WikiMatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia*](https://arxiv.org/abs/1907.05791)
+    arXiv, July 11  2019.
 
-```bibtex
-@misc {beeching2023stackllama,
-    author       = { Edward Beeching and
-                     Younes Belkada and
-                     Kashif Rasul and
-                     Lewis Tunstall and
-                     Leandro von Werra and
-                     Nazneen Rajani and
-                     Nathan Lambert
-                   },
-    title        = { StackLLaMA: An RL Fine-tuned LLaMA Model for Stack Exchange Question and Answering },
-    year         = 2023,
-    url          = { https://huggingface.co/blog/stackllama },
-    doi          = { 10.57967/hf/0513 },
-    publisher    = { Hugging Face Blog }
-}
-```
+[2] Hugo Touvron and Thibaut Lavril and Gautier Izacard and Xavier Martinet and Marie-Anne Lachaux and Timothée Lacroix and Baptiste Rozière and Naman Goyal and Eric Hambro and Faisal Azhar and Aurelien Rodriguez and Armand Joulin and Edouard Grave and Guillaume Lample, [*LLaMA: Open and Efficient Foundation Language Models*](https://arxiv.org/abs/2302.13971)
+arXiv, Feb 27, 2023
+
+[3] Edward Beeching and Younes Belkada and Kashif Rasul and Lewis Tunstall and Leandro von Werra and Nazneen Rajani and Nathan Lambert, [*StackLLaMA: A hands-on guide to train LLaMA with RLHF
+
+*](https://huggingface.co/blog/stackllama)
+
+
