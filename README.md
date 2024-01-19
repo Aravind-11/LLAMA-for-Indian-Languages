@@ -26,7 +26,7 @@ wget https://dl.fbaipublicfiles.com/laser/WikiMatrix/WikiMatrix.v1.1620_language
 ### References 
 
 ```bibtext
-@misc{schwenk2019wikimatrix,
+@misc {schwenk2019wikimatrix,
       title={WikiMatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia}, 
       author={Holger Schwenk and Vishrav Chaudhary and Shuo Sun and Hongyu Gong and Francisco Guzmán},
       year={2019},
@@ -37,7 +37,7 @@ wget https://dl.fbaipublicfiles.com/laser/WikiMatrix/WikiMatrix.v1.1620_language
 ```
 
 ```bibtext
-@misc{touvron2023llama,
+@misc {touvron2023llama,
       title={LLaMA: Open and Efficient Foundation Language Models}, 
       author={Hugo Touvron and Thibaut Lavril and Gautier Izacard and Xavier Martinet and Marie-Anne Lachaux and Timothée Lacroix and Baptiste Rozière and Naman Goyal and Eric Hambro and Faisal Azhar and Aurelien Rodriguez and Armand Joulin and Edouard Grave and Guillaume Lample},
       year={2023},
